@@ -1,0 +1,42 @@
+[
+  {
+    "drug": "labetalol",
+    "gene": ""
+  },
+  {
+    "drug": "ibuprofen",
+    "gene": ""
+  },
+  {
+    "drug": "levetiracetam",
+    "gene": ""
+  },
+  {
+    "drug": "carbamazepine",
+    "gene": ""
+  },
+  {
+    "drug": "tamoxifen",
+    "gene": ""
+  },
+  {
+    "drug": "clopidogrel",
+    "gene": ""
+  },
+  {
+    "drug": "metformin",
+    "gene": ""
+  },
+  {
+    "drug": "cisplatin",
+    "gene": ""
+  },
+  {
+    "drug": "warfarin",
+    "gene": ""
+  },
+  {
+    "drug": "retinoic",
+    "gene": ""
+  }
+]
