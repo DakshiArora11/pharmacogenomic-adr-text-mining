@@ -1,0 +1,18 @@
+# Data
+data/
+data_raw/
+output/
+
+# Models
+models/
+
+# Large ML files
+*.npy
+*.pkl
+*.pt
+*.pth
+*.csv
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
