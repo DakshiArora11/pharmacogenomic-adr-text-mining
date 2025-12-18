@@ -13,7 +13,7 @@ st.set_page_config(page_title="DGANet-Rich Clinical Decision Support System", pa
 
 # Paths
 FEATURES_PATH = os.getenv("DGANET_FEATURES_PATH", r"D:/dganet_features/features_rich_full.csv.gz")
-PRED_PATH = os.getenv("DGANET_PREDICTIONS_PATH", r"D:/dganet_features/predictions_rich.csv")
+PRED_PATH = os.getenv("DGANET_PREDICTIONS_PATH", r"D:/dganet_features/predictions_ranked_full.csv")
 PUBMED_PATH = "data/pubmed_results_large.csv"
 MESH_CACHE = "data/umls_mesh_cache.json"
 HISTORY_FILE = "search_history.json"
