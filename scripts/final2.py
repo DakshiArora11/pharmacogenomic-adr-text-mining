@@ -685,6 +685,6 @@ st.markdown("""
 # ---------------------- TEAM CREDITS ----------------------
 st.markdown("""
 <div class='team-credits'>
-Developed by: Dakshi Arora, Parag Garg under the mentorship of Dr. Yogesh Gupta | School of Engineering and Technology, BML Munjal University
+Developed by: Dakshi Arora under the mentorship of Dr. Yogesh Gupta | School of Engineering and Technology, BML Munjal University
 </div>
 """, unsafe_allow_html=True)
