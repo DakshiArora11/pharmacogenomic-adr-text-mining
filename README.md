@@ -1,4 +1,4 @@
-# Pharmacogenomic ADR Prediction via Text Mining
+# ✨ Pharmacogenomic ADR Prediction via Text Mining
 
 This repository contains the **codebase** for a pharmacogenomics research project focused on **predicting adverse drug reactions (ADRs)** by integrating **structured biomedical knowledge** with **unstructured evidence mined from biomedical literature**.
 
